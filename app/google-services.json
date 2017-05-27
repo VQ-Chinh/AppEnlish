@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "692287867677",
+    "firebase_url": "https://roadto600-b9aa9.firebaseio.com",
+    "project_id": "roadto600-b9aa9",
+    "storage_bucket": "roadto600-b9aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692287867677:android:d51de7c430d0df3e",
+        "android_client_info": {
+          "package_name": "com.thelazyteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692287867677-n6s8asggtaecnbvc0781rj9oq94egk7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtkwaTiZtUvtn2NiuSB-lrzrNEsQMUEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
